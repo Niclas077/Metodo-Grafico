@@ -1,0 +1,2 @@
+El codigo es el archivo MG que se encuentra en esta carpeta
+El ejecutable .exe se encuentra alojado en la carpeta dist

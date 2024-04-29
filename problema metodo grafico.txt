@@ -1,0 +1,9 @@
+coeficientes funcion objetivo: 4000 5000
+restriccion 1: 0.12 0.2 <=500
+restriccion 2: 0.15 0.1 <= 300
+restriccion 3: 0.072 0.027 <=108
+
+valores optimos
+
+X1: 555.55
+x2: 2166
